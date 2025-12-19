@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava.introducao;
 
-public class OlaDevDojo {
+public class Aula01OlaDevDojo {
     //comentário de uma linha
 
     /*comentário
