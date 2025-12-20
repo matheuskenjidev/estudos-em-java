@@ -2,7 +2,7 @@ package academy.devdojo.maratonajava.introducao;
 
 public class Aula05EstruturasCondicionais04 {
     public static void main(String[] args) {
-        double salario = 45000.0;
+        double salario = 70000.0;
         double imposto;
 
         if(salario <= 34712) {
